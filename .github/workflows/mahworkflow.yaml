@@ -8,5 +8,5 @@ jobs:
       - name: fosddasfoisadfiawefiawofeawjkfowaifeaowfejiwaoo
         uses: dfiaojfeawio/sadioffaweiosadfasiw@1.0
       - name: fosddasfoisadfiawefiawofeawjkfowaifeaowfejiwaoo
-        uses: dfiaojfeawio/sadioffaweiosadfasiw@a89c5f5
+        uses: dfiaojfeawio/sadioffaweiosadfasiw@a89c5f54d791e43473baffd8d7f42d2329595e05
       - run: echo bla bla bla

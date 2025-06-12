@@ -7,4 +7,6 @@ jobs:
     steps:
       - name: fosddasfoisadfiawefiawofeawjkfowaifeaowfejiwaoo
         uses: dfiaojfeawio/sadioffaweiosadfasiw@1.0
+      - name: fosddasfoisadfiawefiawofeawjkfowaifeaowfejiwaoo
+        uses: dfiaojfeawio/sadioffaweiosadfasiw@a89c5f5
       - run: echo bla bla bla

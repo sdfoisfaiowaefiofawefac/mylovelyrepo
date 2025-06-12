@@ -9,4 +9,8 @@ jobs:
         uses: dfiaojfeawio/sadioffaweiosadfasiw@1.0
       - name: fosddasfoisadfiawefiawofeawjkfowaifeaowfejiwaoo
         uses: dfiaojfeawio/sadioffaweiosadfasiw@a89c5f54d791e43473baffd8d7f42d2329595e05
+      - name: fosddasfoisadfiawefiawofeawjkfowaifeaowfejiwaoo
+        uses: dfiaojfeawio/sadioffaweiosadfasiw@main
+      - name: fosddasfoisadfiawefiawofeawjkfowaifeaowfejiwaoo
+        uses: dfiaojfeawio/sadioffaweiosadfasiw@MAIN
       - run: echo bla bla bla
